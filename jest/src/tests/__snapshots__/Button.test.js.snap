@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render decrement correctly [Red Test] 1`] = `
+<button>
+   - Decrement 
+</button>
+`;
+
+exports[`renders decrement without errors 1`] = `
+<button
+  className="decrement"
+>
+   - Decrement 
+</button>
+`;
+
+exports[`renders increment without errors 1`] = `
+<button
+  className="increment"
+>
+   + Increment 
+</button>
+`;
